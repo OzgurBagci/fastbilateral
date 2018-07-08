@@ -1,4 +1,5 @@
 This code highly inspired by:
+
 	[1] https://gist.github.com/ginrou/02e945562607fad170a1#file-fastbilateral-hpp
 	[2] https://gist.github.com/jackdoerner/b81ad881c4064470d3c0#file-bilateral_approximation-py
 	[3] https://github.com/KirillLykov/cvision-algorithms/blob/master/src/fastBilateralFilter.m
