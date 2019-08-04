@@ -15,8 +15,6 @@ Contact:    {
                 bagciozgur94@hotmail.com.tr
                 e2262137@ceng.metu.edu.tr
             }
-
-Licence: Unlicense
 """
 
 
