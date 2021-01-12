@@ -4,7 +4,7 @@ This is a Fast Bilateral Filter Approximation inspired by an academic paper.
 
 ## Development Plan
 
-opefully I will:
+Hopefully I will:
 
 - Rewrite this implementation using C/C++ for computatively intensive parts. 
 - Refactor utility scripts for better performance.
