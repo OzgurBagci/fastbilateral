@@ -1,3 +1,19 @@
+# Fast Biletarel
+
+This is a Fast Bilateral Filter Approximation inspired by an academic paper.
+
+## Development Plan
+
+opefully I will:
+
+- Rewrite this implementation using C/C++ for computatively intensive parts. 
+- Refactor utility scripts for better performance.
+- Replace the test runner to be more general purpose with a better interface.
+
+I plan to implement above improvements until March 2021.
+
+## Refrences
+
 This code highly inspired by:
 
 	[1] https://gist.github.com/ginrou/02e945562607fad170a1#file-fastbilateral-hpp
@@ -5,7 +21,8 @@ This code highly inspired by:
 	[3] https://github.com/KirillLykov/cvision-algorithms/blob/master/src/fastBilateralFilter.m
 	[4] http://people.csail.mit.edu/jiawen/software/bilateralFilter.m
 	
-How to Use:
+## How to Use
+
 	Information of functions provided in script functions. If you want to use a standartized version use:
 		python3 runner.py
 	and type filenames with locations. Type '!-end-!' to end giving inputs. At least 2 images are needed.
@@ -15,10 +32,12 @@ How to Use:
 		python3 lowerres.py
 	Inputs work exactly as runner.py.
 	
-How It Works:
-	Refer to The Report, The Fast Approximation. For more information a paper is provided in The Report.
+## More Information
+
+Refer to The Report, The Fast Approximation. For more information a paper is provided in The Report.
 		
-Notes:
-	There is no strict memory managment in 'runner.py' as it is just a testing script.
-	The picked configurations are explaned in The Report.
-	For more information contact one of the emails provided in 'fastbilateralapprox.py'.
+## Some Notes
+
+- There is no strict memory managment in 'runner.py' as it is just a testing script.
+- The picked configurations are explaned in The Report.
+- For more information contact one of the emails provided in 'fastbilateralapprox.py'.
