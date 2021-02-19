@@ -1,4 +1,4 @@
-# Fast Biletarel
+# Fast Bilateral
 
 This is a Fast Bilateral Filter Approximation inspired by an academic paper.
 
