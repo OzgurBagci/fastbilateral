@@ -10,7 +10,7 @@ Hopefully I will:
 - Refactor utility scripts for better performance.
 - Replace the test runner to be more general purpose with a better interface.
 
-I plan to implement above improvements until March 2021.
+I plan to implement above improvements until end of 2021 (_Edit_: postponed due to busyness).
 
 ## Refrences
 
